@@ -6,3 +6,4 @@ npm-debug.log
 .content
 dist/**/*.map
 wp-config.php
+wp-content/uploads/*
