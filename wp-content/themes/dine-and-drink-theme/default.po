@@ -1,0 +1,2191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dine-and-drink\n"
+"POT-Creation-Date: 2013-07-19 08:23+0700\n"
+"PO-Revision-Date: 2013-07-19 08:23+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "ERROR 404"
+msgstr ""
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:18
+msgid "We're sorry, but the page you were looking for doesn't exist."
+msgstr ""
+
+#: 404.php:21
+msgid "You can start from the Home, Blog or see our food menu."
+msgstr ""
+
+#: _index.php:127 comments.php:19 index.php:140 at_functions/index.php:143
+msgid "0 Comment"
+msgstr ""
+
+#: _index.php:127 comments.php:19 index.php:140 at_functions/index.php:143
+msgid "1 Comment"
+msgstr ""
+
+#: _index.php:127 comments.php:19 index.php:140 at_functions/index.php:143
+msgid "% Comments"
+msgstr ""
+
+#: _index.php:160
+msgid "Pages:"
+msgstr ""
+
+#: _index.php:165 index.php:160 at_functions/index.php:163
+msgid "Next page"
+msgstr ""
+
+#: _index.php:166 index.php:161 at_functions/index.php:164
+msgid "Previous page"
+msgstr ""
+
+#: _index.php:316 index.php:250 taxonomy-portfolio_cat.php:167
+#: at_functions/index.php:253
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr ""
+
+#: _index.php:317 index.php:253 taxonomy-portfolio_cat.php:168
+#: at_functions/index.php:256
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: _index.php:322 index.php:264 at_functions/index.php:267
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: comments.php:57
+msgid ""
+"<div class=\"widget_title\"><div class=\"widget_title_ribbon\"><i class="
+"\"icon-coffee\"></i></div><span class=\"widget_title_text\">Leave a Reply</"
+"span></div>"
+msgstr ""
+
+#: comments.php:58
+#, php-format
+msgid ""
+"<div class=\"widget_title\"><div class=\"widget_title_ribbon\"><i class="
+"\"icon-coffee\"></i></div><span class=\"widget_title_text\">Leave a Reply to "
+"%s</span></div>"
+msgstr ""
+
+#: comments.php:59
+msgid "Cancel Reply"
+msgstr ""
+
+#: goodlayers-option.php:18 at_functions/at_functions.php:199
+#: at_functions/at_functions.php:231
+msgid "General"
+msgstr ""
+
+#: goodlayers-option.php:19
+msgid "Page Style"
+msgstr ""
+
+#: goodlayers-option.php:20 at_functions/at_functions.php:1082
+#: at_functions/at_options_page.php:793
+msgid "Sidebar"
+msgstr ""
+
+#: goodlayers-option.php:21
+msgid "Footer Style"
+msgstr ""
+
+#: goodlayers-option.php:22
+msgid "Google Analytics"
+msgstr ""
+
+#: goodlayers-option.php:23 at_functions/at_options_page.php:195
+#: at_functions/at_options_page.php:201
+msgid "Favicon"
+msgstr ""
+
+#: goodlayers-option.php:25
+msgid "Font Style"
+msgstr ""
+
+#: goodlayers-option.php:26
+msgid "Font Size"
+msgstr ""
+
+#: goodlayers-option.php:27
+msgid "Font Family"
+msgstr ""
+
+#: goodlayers-option.php:28
+msgid "Upload Font"
+msgstr ""
+
+#: goodlayers-option.php:30 at_functions/at_functions.php:205
+#: at_functions/at_functions.php:243
+msgid "Overall Elements"
+msgstr ""
+
+#: goodlayers-option.php:31
+msgid "Logo"
+msgstr ""
+
+#: goodlayers-option.php:32
+msgid "Top Navigation"
+msgstr ""
+
+#: goodlayers-option.php:33
+msgid "Background Style"
+msgstr ""
+
+#: goodlayers-option.php:34
+msgid "Top Right Area"
+msgstr ""
+
+#: goodlayers-option.php:35
+msgid "Social Network"
+msgstr ""
+
+#: goodlayers-option.php:36
+msgid "Social Shares"
+msgstr ""
+
+#: goodlayers-option.php:37
+msgid "Copyright Area"
+msgstr ""
+
+#: goodlayers-option.php:40 at_functions/at_functions.php:208
+#: at_functions/at_functions.php:249
+msgid "Elements Color"
+msgstr ""
+
+#: goodlayers-option.php:41
+msgid "Navigation"
+msgstr ""
+
+#: goodlayers-option.php:42
+msgid "Top Search"
+msgstr ""
+
+#: goodlayers-option.php:43 at_functions/at_options_page.php:665
+msgid "Body"
+msgstr ""
+
+#: goodlayers-option.php:44 at_functions/at_options_page.php:484
+msgid "Footer"
+msgstr ""
+
+#: goodlayers-option.php:45 at_functions/at_custom_post.php:12
+#: at_functions/at_custom_post.php:13
+msgid "Slider"
+msgstr ""
+
+#: goodlayers-option.php:46
+msgid "Blog / Portfolio"
+msgstr ""
+
+#: goodlayers-option.php:47
+msgid "Contact Form/Comments"
+msgstr ""
+
+#: goodlayers-option.php:48
+msgid "Stunning Text"
+msgstr ""
+
+#: goodlayers-option.php:49 goodlayers-option.php:58
+msgid "Additional Elements"
+msgstr ""
+
+#: goodlayers-option.php:50
+msgid "Price Item"
+msgstr ""
+
+#: goodlayers-option.php:51
+msgid "Load Default Color"
+msgstr ""
+
+#: goodlayers-option.php:53
+msgid "Translator"
+msgstr ""
+
+#: goodlayers-option.php:54
+msgid "Enable Admin Translator"
+msgstr ""
+
+#: goodlayers-option.php:55
+msgid "Blog/Portfolio"
+msgstr ""
+
+#: goodlayers-option.php:56
+msgid "Contact Form"
+msgstr ""
+
+#: goodlayers-option.php:57
+msgid "Contact Widget"
+msgstr ""
+
+#: goodlayers-option.php:61
+msgid "Slider Setting"
+msgstr ""
+
+#: goodlayers-option.php:62
+msgid "Nivo Slider"
+msgstr ""
+
+#: goodlayers-option.php:63
+msgid "Flex Slider"
+msgstr ""
+
+#: goodlayers-option.php:64
+msgid "Anything Slider"
+msgstr ""
+
+#: goodlayers-option.php:72
+msgid "ENABLE RESPONSIVE"
+msgstr ""
+
+#: goodlayers-option.php:78
+msgid "DEFAULT DATE FORMAT"
+msgstr ""
+
+#: goodlayers-option.php:82
+msgid "DEFAULT WIDGET DATE FORMAT"
+msgstr ""
+
+#: goodlayers-option.php:86
+msgid "USE PORTFOLIO PAGE AS"
+msgstr ""
+
+#: goodlayers-option.php:91
+msgid "CHANGE PORTFOLIO SLUG"
+msgstr ""
+
+#: goodlayers-option.php:97
+msgid "SEARCH/ARCHIVE SIDEBAR"
+msgstr ""
+
+#: goodlayers-option.php:106
+msgid "SEARCH/ARCHIVE EXCERPT NUM"
+msgstr ""
+
+#: goodlayers-option.php:111
+msgid "SEARCH/ARCHIVE ITEM SIZE"
+msgstr ""
+
+#: goodlayers-option.php:116
+msgid "SEARCH/ARCHIVE FULL BLOG CONTENT"
+msgstr ""
+
+#: goodlayers-option.php:122
+msgid "DEFAULT POST SIDEBAR"
+msgstr ""
+
+#: goodlayers-option.php:131
+msgid "DEFAULT POST LEFT SIDEBAR"
+msgstr ""
+
+#: goodlayers-option.php:136
+msgid "DEFAULT POST RIGHT SIDEBAR"
+msgstr ""
+
+#: goodlayers-option.php:144
+msgid "CREATE SIDEBAR"
+msgstr ""
+
+#: goodlayers-option.php:148
+msgid "CHOOSE FOOTER STYLE"
+msgstr ""
+
+#: goodlayers-option.php:160
+msgid "SHOW FOOTER"
+msgstr ""
+
+#: goodlayers-option.php:161
+msgid "SHOW COPYRIGHT"
+msgstr ""
+
+#: goodlayers-option.php:165
+msgid "ENABLE GOOGLE ANALYTICS"
+msgstr ""
+
+#: goodlayers-option.php:166
+msgid "GOOGLE ANALYTICS CODE"
+msgstr ""
+
+#: goodlayers-option.php:173
+msgid "ENABLE FAVICON"
+msgstr ""
+
+#: goodlayers-option.php:174
+msgid "UPLOAD FAVICON ICON"
+msgstr ""
+
+#: goodlayers-option.php:179
+msgid "H1 SIZE"
+msgstr ""
+
+#: goodlayers-option.php:180
+msgid "H2 SIZE"
+msgstr ""
+
+#: goodlayers-option.php:181
+msgid "H3 SIZE"
+msgstr ""
+
+#: goodlayers-option.php:182
+msgid "H4 SIZE"
+msgstr ""
+
+#: goodlayers-option.php:183
+msgid "H5 SIZE"
+msgstr ""
+
+#: goodlayers-option.php:184
+msgid "H6 SIZE"
+msgstr ""
+
+#: goodlayers-option.php:188
+msgid "HEADER FONT"
+msgstr ""
+
+#: goodlayers-option.php:190
+msgid "CONTENT FONT"
+msgstr ""
+
+#: goodlayers-option.php:192
+msgid "STUNNING TEXT FONT"
+msgstr ""
+
+#: goodlayers-option.php:198
+msgid "UPLOAD FONT"
+msgstr ""
+
+#: goodlayers-option.php:206
+msgid "LOGO"
+msgstr ""
+
+#: goodlayers-option.php:207
+msgid "LOGO TOP MARGIN"
+msgstr ""
+
+#: goodlayers-option.php:209
+msgid "LOGO LEFT MARGIN"
+msgstr ""
+
+#: goodlayers-option.php:210
+msgid "LOGO BOTTOM MARGIN"
+msgstr ""
+
+#: goodlayers-option.php:215
+msgid "ENABLE TOP NAVIGATION"
+msgstr ""
+
+#: goodlayers-option.php:217
+msgid "ENABLE TOP SEARCH"
+msgstr ""
+
+#: goodlayers-option.php:219
+msgid "TOP NAVIGATION RIGHT TEXT"
+msgstr ""
+
+#: goodlayers-option.php:223
+msgid "BACKGROUND TYPE"
+msgstr ""
+
+#: goodlayers-option.php:225
+msgid "CHOOSE PATTERN"
+msgstr ""
+
+#: goodlayers-option.php:248
+msgid "CUSTOM BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:255
+msgid "TEXT ABOVE ICON"
+msgstr ""
+
+#: goodlayers-option.php:260
+msgid "MARGIN TOP"
+msgstr ""
+
+#: goodlayers-option.php:262 goodlayers-option.php:307
+msgid "DELICIOUS"
+msgstr ""
+
+#: goodlayers-option.php:264
+msgid "DEVIANTART"
+msgstr ""
+
+#: goodlayers-option.php:266 goodlayers-option.php:309
+msgid "DIGG"
+msgstr ""
+
+#: goodlayers-option.php:268 goodlayers-option.php:297
+msgid "FACEBOOK"
+msgstr ""
+
+#: goodlayers-option.php:270
+msgid "FLICKR"
+msgstr ""
+
+#: goodlayers-option.php:272
+msgid "LASTFM"
+msgstr ""
+
+#: goodlayers-option.php:274 goodlayers-option.php:313
+msgid "LINKEDIN"
+msgstr ""
+
+#: goodlayers-option.php:276
+msgid "PICASA"
+msgstr ""
+
+#: goodlayers-option.php:278
+msgid "RSS"
+msgstr ""
+
+#: goodlayers-option.php:280 goodlayers-option.php:303
+msgid "STUMBLE UPON"
+msgstr ""
+
+#: goodlayers-option.php:282
+msgid "TUMBLR"
+msgstr ""
+
+#: goodlayers-option.php:284 goodlayers-option.php:299
+msgid "TWITTER"
+msgstr ""
+
+#: goodlayers-option.php:286
+msgid "VIMEO"
+msgstr ""
+
+#: goodlayers-option.php:288
+msgid "YOUTUBE"
+msgstr ""
+
+#: goodlayers-option.php:290 goodlayers-option.php:315
+msgid "GOOGLE PLUS"
+msgstr ""
+
+#: goodlayers-option.php:292
+msgid "EMAIL"
+msgstr ""
+
+#: goodlayers-option.php:301
+msgid "GOOGLE"
+msgstr ""
+
+#: goodlayers-option.php:305
+msgid "MY SPACE"
+msgstr ""
+
+#: goodlayers-option.php:311
+msgid "REDDIT"
+msgstr ""
+
+#: goodlayers-option.php:321
+msgid "COPYRIGHT LEFT AREA"
+msgstr ""
+
+#: goodlayers-option.php:322
+msgid "COPYRIGHT RIGHT AREA"
+msgstr ""
+
+#: goodlayers-option.php:332
+msgid "TOP NAVIGATION BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:333
+msgid "TOP NAVIGATION BOTTOM BAR"
+msgstr ""
+
+#: goodlayers-option.php:335
+msgid "TOP NAVIGATION TEXT COLOR"
+msgstr ""
+
+#: goodlayers-option.php:336
+msgid "MAIN NAVIGATION GRADIENT"
+msgstr ""
+
+#: goodlayers-option.php:337
+msgid "MAIN NAVIGATION BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:338
+msgid "MAIN NAVIGATION BORDER LEFT"
+msgstr ""
+
+#: goodlayers-option.php:340
+msgid "MAIN NAVIGATION BORDER RIGHT"
+msgstr ""
+
+#: goodlayers-option.php:342
+msgid "MAIN NAVIGATION BORDER TOP/BOTTOM"
+msgstr ""
+
+#: goodlayers-option.php:344
+msgid "MAIN NAVIGATION TEXT"
+msgstr ""
+
+#: goodlayers-option.php:346
+msgid "MAIN NAVIGATION TEXT HOVER"
+msgstr ""
+
+#: goodlayers-option.php:348
+msgid "MAIN NAVIGATION TEXT CURRENT"
+msgstr ""
+
+#: goodlayers-option.php:350
+msgid "MAIN NAVIGATION BOTTOM SHADOW"
+msgstr ""
+
+#: goodlayers-option.php:352
+msgid "SUB NAVIGATION BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:353
+msgid "SUB NAVIGATION BORDER"
+msgstr ""
+
+#: goodlayers-option.php:354
+msgid "SUB NAVIGATION TEXT"
+msgstr ""
+
+#: goodlayers-option.php:355
+msgid "SUB NAVIGATION TEXT HOVER"
+msgstr ""
+
+#: goodlayers-option.php:356
+msgid "SUB NAVIGATION TEXT CURRENT"
+msgstr ""
+
+#: goodlayers-option.php:360
+msgid "SEARCH BOX BACKGROUND COLOR"
+msgstr ""
+
+#: goodlayers-option.php:361
+msgid "SEARCH BOX SHADOW COLOR"
+msgstr ""
+
+#: goodlayers-option.php:363
+msgid "SEARCH BOX TEXT COLOR"
+msgstr ""
+
+#: goodlayers-option.php:367
+msgid "ICON STYLE"
+msgstr ""
+
+#: goodlayers-option.php:372
+msgid "TITLE COLOR"
+msgstr ""
+
+#: goodlayers-option.php:374
+msgid "SIDEBAR TITLE COLOR"
+msgstr ""
+
+#: goodlayers-option.php:375
+msgid "CONTENT COLOR"
+msgstr ""
+
+#: goodlayers-option.php:376
+msgid "BODY BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:378
+msgid "CONTAINER BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:380
+msgid "CONTAINER SHADOW"
+msgstr ""
+
+#: goodlayers-option.php:381
+msgid "LINK COLOR"
+msgstr ""
+
+#: goodlayers-option.php:383
+msgid "LINK HOVER COLOR"
+msgstr ""
+
+#: goodlayers-option.php:385
+msgid "ELEMENTS SHADOW"
+msgstr ""
+
+#: goodlayers-option.php:387
+msgid "TABLE BORDER (TABLE TAG)"
+msgstr ""
+
+#: goodlayers-option.php:388
+msgid "TABLE TITLE TEXT COLOR (TH TAG)"
+msgstr ""
+
+#: goodlayers-option.php:389
+msgid "TABLE TITLE BACKGROUND (TH TAG)"
+msgstr ""
+
+#: goodlayers-option.php:394
+msgid "FOOTER ICON TYPE"
+msgstr ""
+
+#: goodlayers-option.php:396
+msgid "FOOTER LINK COLOR"
+msgstr ""
+
+#: goodlayers-option.php:398
+msgid "FOOTER LINK HOVER COLOR"
+msgstr ""
+
+#: goodlayers-option.php:400
+msgid "FOOTER TITLE COLOR"
+msgstr ""
+
+#: goodlayers-option.php:401
+msgid "FOOTER CONTENT COLOR"
+msgstr ""
+
+#: goodlayers-option.php:402
+msgid "FOOTER CONTENT INFO COLOR"
+msgstr ""
+
+#: goodlayers-option.php:404
+msgid "FOOTER BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:405
+msgid "FOOTER TOP BAR"
+msgstr ""
+
+#: goodlayers-option.php:407
+msgid "FOOTER DIVIDER COLOR"
+msgstr ""
+
+#: goodlayers-option.php:408
+msgid "FOOTER INPUT BOX TEXT"
+msgstr ""
+
+#: goodlayers-option.php:410
+msgid "FOOTER INPUT BOX BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:411
+msgid "FOOTER INPUT BOX BORDER"
+msgstr ""
+
+#: goodlayers-option.php:412
+msgid "FOOTER BUTTON COLOR"
+msgstr ""
+
+#: goodlayers-option.php:414
+msgid "FOOTER BUTTON TEXT COLOR"
+msgstr ""
+
+#: goodlayers-option.php:415
+msgid "FOOTER FRAME BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:417
+msgid "FOOTER FRAME BORDER"
+msgstr ""
+
+#: goodlayers-option.php:418
+msgid "COPYRIGHT TEXT COLOR"
+msgstr ""
+
+#: goodlayers-option.php:419
+msgid "COPYRIGHT BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:420
+msgid "COPYRIGHT SHADOW COLOR"
+msgstr ""
+
+#: goodlayers-option.php:425
+msgid "SLIDER TITLE COLOR"
+msgstr ""
+
+#: goodlayers-option.php:426
+msgid "SLIDER CAPTION COLOR"
+msgstr ""
+
+#: goodlayers-option.php:427
+msgid "TOP SLIDER BOTTOM LINE"
+msgstr ""
+
+#: goodlayers-option.php:432
+msgid "PORT TITLE COLOR"
+msgstr ""
+
+#: goodlayers-option.php:434
+msgid "PORT TITLE HOVER COLOR"
+msgstr ""
+
+#: goodlayers-option.php:436
+msgid "BLOG TITLE COLOR"
+msgstr ""
+
+#: goodlayers-option.php:438
+msgid "BLOG TITLE HOVER COLOR"
+msgstr ""
+
+#: goodlayers-option.php:440
+msgid "BLOG INFO COLOR"
+msgstr ""
+
+#: goodlayers-option.php:442
+msgid "BLOG (WIDGET STYLE) TITLE"
+msgstr ""
+
+#: goodlayers-option.php:443
+msgid "BLOG/PORT FRAME COLOR"
+msgstr ""
+
+#: goodlayers-option.php:444
+msgid "BLOG/PORT FRAME BORDER COLOR"
+msgstr ""
+
+#: goodlayers-option.php:445
+msgid "BLOG ABOUT AUTHOR BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:447
+msgid "PAGINATION NORMAL STATE"
+msgstr ""
+
+#: goodlayers-option.php:452
+msgid "CONTACT FORM/COMMENT BACKGROUND COLOR"
+msgstr ""
+
+#: goodlayers-option.php:454
+msgid "CONTACT FORM/COMMENT TEXT COLOR"
+msgstr ""
+
+#: goodlayers-option.php:456
+msgid "CONTACT FORM/COMMENT BORDER COLOR"
+msgstr ""
+
+#: goodlayers-option.php:457
+msgid "CONTACT FORM/COMMENT FRAME COLOR"
+msgstr ""
+
+#: goodlayers-option.php:458
+msgid "CONTACT FORM/COMMENT INNER SHADOW"
+msgstr ""
+
+#: goodlayers-option.php:463
+msgid "STUNNING TEXT TITLE COLOR"
+msgstr ""
+
+#: goodlayers-option.php:464
+msgid "STUNNING TEXT CAPTION COLOR"
+msgstr ""
+
+#: goodlayers-option.php:465
+msgid "STUNNING TEXT BACKGROUND COLOR"
+msgstr ""
+
+#: goodlayers-option.php:466
+msgid "STUNNING TEXT BUTTON TEXT COLOR"
+msgstr ""
+
+#: goodlayers-option.php:468
+msgid "STUNNING TEXT BUTTON BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:473
+msgid "DIVIDER LINE COLOR"
+msgstr ""
+
+#: goodlayers-option.php:475
+msgid "DIVIDER ITEM BACK TO TOP TEXT"
+msgstr ""
+
+#: goodlayers-option.php:477
+msgid "TAB BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:479
+msgid "TAB TEXT COLOR"
+msgstr ""
+
+#: goodlayers-option.php:480
+msgid "TAB ACTIVE BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:482
+msgid "TAB ACTIVE TEXT COLOR"
+msgstr ""
+
+#: goodlayers-option.php:483
+msgid "TAB BORDER COLOR"
+msgstr ""
+
+#: goodlayers-option.php:484
+msgid "COLUMN SERVICE TITLE COLOR"
+msgstr ""
+
+#: goodlayers-option.php:485
+msgid "TESTIMONIAL TEXT COLOR"
+msgstr ""
+
+#: goodlayers-option.php:486
+msgid "TESTIMONIAL TEXT AUTHOR COLOR"
+msgstr ""
+
+#: goodlayers-option.php:487
+msgid "TESTIMONIAL TEXT POSITION COLOR"
+msgstr ""
+
+#: goodlayers-option.php:488
+msgid "BUTTON BACKGROUND COLOR"
+msgstr ""
+
+#: goodlayers-option.php:490
+msgid "BUTTON BORDER COLOR"
+msgstr ""
+
+#: goodlayers-option.php:492
+msgid "BUTTON TEXT COLOR"
+msgstr ""
+
+#: goodlayers-option.php:494
+msgid "BUTTON TEXT HOVER COLOR"
+msgstr ""
+
+#: goodlayers-option.php:499
+msgid "PRICE TEXT COLOR"
+msgstr ""
+
+#: goodlayers-option.php:501
+msgid "BEST PRICE TEXT COLOR"
+msgstr ""
+
+#: goodlayers-option.php:503
+msgid "PRICE TITLE COLOR"
+msgstr ""
+
+#: goodlayers-option.php:505
+msgid "BEST PRICE TITLE COLOR"
+msgstr ""
+
+#: goodlayers-option.php:507
+msgid "PRICE TITLE BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:508
+msgid "BEST PRICE TITLE BACKGROUND"
+msgstr ""
+
+#: goodlayers-option.php:509
+msgid "PRICE ITEM BORDER"
+msgstr ""
+
+#: goodlayers-option.php:514
+msgid "LOAD DEFAULT ELEMENTS COLOR"
+msgstr ""
+
+#: goodlayers-option.php:521
+msgid "ENABLE ADMIN TRANSLATOR"
+msgstr ""
+
+#: goodlayers-option.php:525
+msgid "SOCIAL SHARE (BLOG/PORTFOLIO)"
+msgstr ""
+
+#: goodlayers-option.php:526
+msgid "LEAVE A REPLY (BLOG)"
+msgstr ""
+
+#: goodlayers-option.php:527
+msgid "ABOUT THE AUTHOR (BLOG)"
+msgstr ""
+
+#: goodlayers-option.php:528
+msgid "CLIENT (PORTFOLIO)"
+msgstr ""
+
+#: goodlayers-option.php:529
+msgid "READ MORE (PORTFOLIO)"
+msgstr ""
+
+#: goodlayers-option.php:530
+msgid "VISIT WEBSITE (PORTFOLIO)"
+msgstr ""
+
+#: goodlayers-option.php:531
+msgid "VIEW ALL PROJECTS (PORTFOLIO)"
+msgstr ""
+
+#: goodlayers-option.php:532
+msgid "CONTINUE READING (BLOG)"
+msgstr ""
+
+#: goodlayers-option.php:536
+msgid "NAME (CONTACT FORM)"
+msgstr ""
+
+#: goodlayers-option.php:537
+msgid "NAME ERROR (CONTACT FORM)"
+msgstr ""
+
+#: goodlayers-option.php:538
+msgid "EMAIL (CONTACT FORM)"
+msgstr ""
+
+#: goodlayers-option.php:539
+msgid "EMAIL ERROR (CONTACT FORM)"
+msgstr ""
+
+#: goodlayers-option.php:540
+msgid "MESSAGE (CONTACT FORM)"
+msgstr ""
+
+#: goodlayers-option.php:541
+msgid "MESSAGE ERROR (CONTACT FORM)"
+msgstr ""
+
+#: goodlayers-option.php:542
+msgid "SUBMIT BUTTON (CONTACT FORM)"
+msgstr ""
+
+#: goodlayers-option.php:543
+msgid "SEND ERROR (CONTACT FORM)"
+msgstr ""
+
+#: goodlayers-option.php:544
+msgid "SEND COMPLETE (CONTACT FORM)"
+msgstr ""
+
+#: goodlayers-option.php:548
+msgid "NAME (CONTACT WIDGET)"
+msgstr ""
+
+#: goodlayers-option.php:549
+msgid "EMAIL (CONTACT WIDGET)"
+msgstr ""
+
+#: goodlayers-option.php:550
+msgid "MESSAGE (CONTACT WIDGET)"
+msgstr ""
+
+#: goodlayers-option.php:551
+msgid "REQUIRE (CONTACT WIDGET)"
+msgstr ""
+
+#: goodlayers-option.php:552
+msgid "PLEASE WAIT (CONTACT WIDGET)"
+msgstr ""
+
+#: goodlayers-option.php:553
+msgid "SENDING COMPLETE (CONTACT WIDGET)"
+msgstr ""
+
+#: goodlayers-option.php:554
+msgid "SUBMIT BUTTON (CONTACT WIDGET)"
+msgstr ""
+
+#: goodlayers-option.php:558
+msgid "READ MORE (PRICE ITEM)"
+msgstr ""
+
+#: goodlayers-option.php:559
+msgid "404 TITLE (404 PAGE)"
+msgstr ""
+
+#: goodlayers-option.php:560
+msgid "404 CONTENT (404 PAGE)"
+msgstr ""
+
+#: goodlayers-option.php:561
+msgid "SEARCH NOT FOUND (SEARCH PAGE)"
+msgstr ""
+
+#: goodlayers-option.php:566 goodlayers-option.php:593
+msgid "SLIDER EFFECTS"
+msgstr ""
+
+#: goodlayers-option.php:577 goodlayers-option.php:595
+#: goodlayers-option.php:609
+msgid "PAUSE ON HOVER"
+msgstr ""
+
+#: goodlayers-option.php:579 goodlayers-option.php:597
+#: goodlayers-option.php:611
+msgid "SHOW BULLETS"
+msgstr ""
+
+#: goodlayers-option.php:581
+msgid "SHOW LEFT/RIGHT NAVIGATION"
+msgstr ""
+
+#: goodlayers-option.php:583 goodlayers-option.php:617
+msgid "ONLY SHOW NAVIGATION WHEN HOVER"
+msgstr ""
+
+#: goodlayers-option.php:585 goodlayers-option.php:601
+#: goodlayers-option.php:619
+msgid "ANIMATION SPEED"
+msgstr ""
+
+#: goodlayers-option.php:587 goodlayers-option.php:603
+#: goodlayers-option.php:621
+msgid "PAUSE TIME"
+msgstr ""
+
+#: goodlayers-option.php:589
+msgid "CAPTION OPACITY"
+msgstr ""
+
+#: goodlayers-option.php:599 goodlayers-option.php:615
+msgid "SHOW NAVIGATION"
+msgstr ""
+
+#: goodlayers-option.php:605
+msgid "PAUSE ON ACTION"
+msgstr ""
+
+#: goodlayers-option.php:613
+msgid "ONLY SHOW BULLETS WHEN HOVER"
+msgstr ""
+
+#: goodlayers-option.php:773 goodlayers-option.php:785
+msgid "Save Changes"
+msgstr ""
+
+#: goodlayers-option.php:1288 goodlayers-option.php:1312
+msgid "Font Name"
+msgstr ""
+
+#: goodlayers-option.php:1292 goodlayers-option.php:1316
+msgid "Font File"
+msgstr ""
+
+#: index.php:155 at_functions/index.php:158
+msgid "Pages : "
+msgstr ""
+
+#: page-option.php:157 page-option.php:552
+msgid "HEADER TITLE"
+msgstr ""
+
+#: page-option.php:231
+msgid "IMAGE"
+msgstr ""
+
+#: page-option.php:236
+msgid "TITLE"
+msgstr ""
+
+#: page-option.php:240
+msgid "CAPTION"
+msgstr ""
+
+#: page-option.php:567
+msgid "SELECT LAYOUT"
+msgstr ""
+
+#: page-option.php:581
+msgid "CHOOSE LEFT SIDEBAR"
+msgstr ""
+
+#: page-option.php:588
+msgid "CHOOSE RIGHT SIDEBAR"
+msgstr ""
+
+#: page-option.php:597
+msgid "SHOW PAGE TITLE"
+msgstr ""
+
+#: page-option.php:605
+msgid "SHOW PAGE CONTENT"
+msgstr ""
+
+#: page-option.php:609
+msgid "TOP SLIDER TYPE"
+msgstr ""
+
+#: page-option.php:618
+msgid "TOP SLIDER HEIGHT"
+msgstr ""
+
+#: page-option.php:627
+msgid "SELECT IMAGES"
+msgstr ""
+
+#: page-option.php:643
+msgid "Page Option"
+msgstr ""
+
+#: page-option.php:904
+msgid "ADD ITEMS"
+msgstr ""
+
+#: sidebar.php:6
+msgid "Search:"
+msgstr ""
+
+#: sidebar.php:14
+msgid "Archives:"
+msgstr ""
+
+#: at_functions/at_custom_post.php:14 at_functions/at_custom_post.php:34
+#: at_functions/at_custom_post.php:111
+msgid "Add New"
+msgstr ""
+
+#: at_functions/at_custom_post.php:15
+msgid "Edit Slider"
+msgstr ""
+
+#: at_functions/at_custom_post.php:16
+msgid "Add New Slider"
+msgstr ""
+
+#: at_functions/at_custom_post.php:32 at_functions/at_custom_post.php:33
+#: at_functions/at_functions.php:211 at_functions/at_functions.php:255
+msgid "Food Menu"
+msgstr ""
+
+#: at_functions/at_custom_post.php:35
+msgid "Edit Food Menu"
+msgstr ""
+
+#: at_functions/at_custom_post.php:36
+msgid "Add New Food Menu"
+msgstr ""
+
+#: at_functions/at_custom_post.php:59 at_functions/at_custom_post.php:60
+#: at_functions/at_custom_post.php:72 at_functions/at_options_page.php:1083
+msgid "Food Menu Categories"
+msgstr ""
+
+#: at_functions/at_custom_post.php:61
+msgid "Search Food Menu Categories"
+msgstr ""
+
+#: at_functions/at_custom_post.php:62
+msgid "Popular Food Menu Categories"
+msgstr ""
+
+#: at_functions/at_custom_post.php:63
+msgid "All Menu"
+msgstr ""
+
+#: at_functions/at_custom_post.php:64 at_functions/at_custom_post.php:65
+msgid "Parent Food Menu Categories"
+msgstr ""
+
+#: at_functions/at_custom_post.php:66
+msgid "Edit Food Menu Category"
+msgstr ""
+
+#: at_functions/at_custom_post.php:67
+msgid "Update Food Menu Category"
+msgstr ""
+
+#: at_functions/at_custom_post.php:68
+msgid "Add New Food Menu Category"
+msgstr ""
+
+#: at_functions/at_custom_post.php:69
+msgid "New Food Menu Category Name"
+msgstr ""
+
+#: at_functions/at_custom_post.php:87 at_functions/at_custom_post.php:88
+#: at_functions/at_custom_post.php:100
+msgid "Food Menu Tags"
+msgstr ""
+
+#: at_functions/at_custom_post.php:89
+msgid "Search Food Menu Tags"
+msgstr ""
+
+#: at_functions/at_custom_post.php:90
+msgid "Popular Food Menu Tags"
+msgstr ""
+
+#: at_functions/at_custom_post.php:91
+msgid "All Tags"
+msgstr ""
+
+#: at_functions/at_custom_post.php:92 at_functions/at_custom_post.php:93
+msgid "Parent Food Menu Tags"
+msgstr ""
+
+#: at_functions/at_custom_post.php:94
+msgid "Edit Food Menu Tags"
+msgstr ""
+
+#: at_functions/at_custom_post.php:95
+msgid "Update Food Menu Tags"
+msgstr ""
+
+#: at_functions/at_custom_post.php:96
+msgid "Add New Food Menu Tags"
+msgstr ""
+
+#: at_functions/at_custom_post.php:97
+msgid "New Food Menu Tags Name"
+msgstr ""
+
+#: at_functions/at_custom_post.php:109 at_functions/at_custom_post.php:110
+msgid "Gallery"
+msgstr ""
+
+#: at_functions/at_custom_post.php:112
+msgid "Edit Gallery"
+msgstr ""
+
+#: at_functions/at_custom_post.php:113
+msgid "Add New Gallery"
+msgstr ""
+
+#: at_functions/at_custom_post.php:136 at_functions/at_custom_post.php:137
+#: at_functions/at_custom_post.php:149
+msgid "Gallery Categories"
+msgstr ""
+
+#: at_functions/at_custom_post.php:138
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: at_functions/at_custom_post.php:139
+msgid "Popular Gallery Categories"
+msgstr ""
+
+#: at_functions/at_custom_post.php:140
+msgid "All Gallery"
+msgstr ""
+
+#: at_functions/at_custom_post.php:141 at_functions/at_custom_post.php:142
+msgid "Parent Gallery Categories"
+msgstr ""
+
+#: at_functions/at_custom_post.php:143
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: at_functions/at_custom_post.php:144
+msgid "Update Gallery Category"
+msgstr ""
+
+#: at_functions/at_custom_post.php:145
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: at_functions/at_custom_post.php:146
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: at_functions/at_custom_post.php:161 at_functions/at_custom_post.php:183
+msgid "Thumbnail"
+msgstr ""
+
+#: at_functions/at_custom_post.php:162 at_functions/at_custom_post.php:184
+msgid "Title"
+msgstr ""
+
+#: at_functions/at_custom_post.php:163 at_functions/at_custom_post.php:185
+msgid "Author"
+msgstr ""
+
+#: at_functions/at_custom_post.php:164 at_functions/at_custom_post.php:188
+#: at_functions/at_shortcodes.php:549
+msgid "Date"
+msgstr ""
+
+#: at_functions/at_custom_post.php:186
+msgid "Categories"
+msgstr ""
+
+#: at_functions/at_custom_post.php:187
+msgid "Tags"
+msgstr ""
+
+#: at_functions/at_functions.php:202 at_functions/at_functions.php:237
+msgid "Font"
+msgstr ""
+
+#: at_functions/at_functions.php:214 at_functions/at_functions.php:261
+msgid "Blog"
+msgstr ""
+
+#: at_functions/at_functions.php:217 at_functions/at_functions.php:267
+msgid "Setting"
+msgstr ""
+
+#: at_functions/at_functions.php:220 at_functions/at_functions.php:273
+#: at_functions/at_options_page.php:1548
+msgid "Support"
+msgstr ""
+
+#: at_functions/at_functions.php:226 at_functions/at_functions.php:282
+msgid "Save changes"
+msgstr ""
+
+#: at_functions/at_functions.php:357
+msgid "Upload Image"
+msgstr ""
+
+#: at_functions/at_functions.php:369
+msgid "Please Select"
+msgstr ""
+
+#: at_functions/at_functions.php:530 at_functions/at_functions.php:592
+#: at_functions/at_shortcodes.php:375 at_functions/at_shortcodes.php:532
+msgid "Name"
+msgstr ""
+
+#: at_functions/at_functions.php:554
+msgid "Icon URL"
+msgstr ""
+
+#: at_functions/at_functions.php:561
+msgid "Upload Icon"
+msgstr ""
+
+#: at_functions/at_functions.php:1049
+msgid "Header Menu"
+msgstr ""
+
+#: at_functions/at_functions.php:1072
+msgid "Home Area"
+msgstr ""
+
+#: at_functions/at_functions.php:1084
+msgid "The sidebar for the optional Showcase Template"
+msgstr ""
+
+#: at_functions/at_functions.php:1093
+msgid "Footer Area One"
+msgstr ""
+
+#: at_functions/at_functions.php:1095 at_functions/at_functions.php:1106
+#: at_functions/at_functions.php:1117
+msgid "An optional widget area for your site footer"
+msgstr ""
+
+#: at_functions/at_functions.php:1104
+msgid "Footer Area Two"
+msgstr ""
+
+#: at_functions/at_functions.php:1115
+msgid "Footer Area Three"
+msgstr ""
+
+#: at_functions/at_functions.php:1163 at_functions/at_functions.php:1191
+msgid "Edit"
+msgstr ""
+
+#: at_functions/at_functions.php:1190
+msgid "Reply"
+msgstr ""
+
+#: at_functions/at_functions.php:1290
+msgid "PREV"
+msgstr ""
+
+#: at_functions/at_functions.php:1291
+msgid "NEXT"
+msgstr ""
+
+#: at_functions/at_functions.php:1316
+msgid "&laquo;"
+msgstr ""
+
+#: at_functions/at_functions.php:1317
+msgid "&raquo;"
+msgstr ""
+
+#: at_functions/at_functions.php:1359
+msgid "Search..."
+msgstr ""
+
+#: at_functions/at_metaboxes.php:34 at_functions/at_metaboxes.php:176
+msgid "HTML Video Embed Code"
+msgstr ""
+
+#: at_functions/at_metaboxes.php:40 at_functions/at_metaboxes.php:182
+msgid "Enter the HTML Video Embed Code of the video, youtube or vimeo, etc."
+msgstr ""
+
+#: at_functions/at_metaboxes.php:60 at_functions/at_metaboxes.php:202
+msgid "Chef Recommended"
+msgstr ""
+
+#: at_functions/at_metaboxes.php:77 at_functions/at_metaboxes.php:219
+msgid "Pricing (s)"
+msgstr ""
+
+#: at_functions/at_metaboxes.php:117 at_functions/at_metaboxes.php:259
+msgid "<b>Badges, Signs or logos :</b>"
+msgstr ""
+
+#: at_functions/at_metaboxes.php:148 at_functions/at_metaboxes.php:290
+msgid "Enable Food Menu Link"
+msgstr ""
+
+#: at_functions/at_metaboxes.php:334
+msgid "URL Link"
+msgstr ""
+
+#: at_functions/at_metaboxes.php:368
+msgid "<b>Name</b>"
+msgstr ""
+
+#: at_functions/at_metaboxes.php:373
+msgid "<p class=\"howto\">Enter a Name.</p>"
+msgstr ""
+
+#: at_functions/at_metaboxes.php:380
+msgid "<b>Link on the Name</b>"
+msgstr ""
+
+#: at_functions/at_metaboxes.php:385
+msgid "<p class=\"howto\">Enter URL link, It will be link on the name.</p>"
+msgstr ""
+
+#: at_functions/at_options_page.php:75
+msgid "Header Social Network"
+msgstr ""
+
+#: at_functions/at_options_page.php:81 at_functions/at_options_page.php:1348
+#: at_functions/at_options_page.php:1436
+msgid "Facebook"
+msgstr ""
+
+#: at_functions/at_options_page.php:89 at_functions/at_options_page.php:1356
+#: at_functions/at_options_page.php:1444
+msgid "Twitter"
+msgstr ""
+
+#: at_functions/at_options_page.php:97
+msgid "Google Plus"
+msgstr ""
+
+#: at_functions/at_options_page.php:105 at_functions/at_options_page.php:1372
+#: at_functions/at_options_page.php:1460
+msgid "Linkedin"
+msgstr ""
+
+#: at_functions/at_options_page.php:113
+msgid "Pinterest"
+msgstr ""
+
+#: at_functions/at_options_page.php:129
+msgid "Dribbble"
+msgstr ""
+
+#: at_functions/at_options_page.php:137
+msgid "Tumblr"
+msgstr ""
+
+#: at_functions/at_options_page.php:145
+msgid "Youtube"
+msgstr ""
+
+#: at_functions/at_options_page.php:153
+msgid "Instagram"
+msgstr ""
+
+#: at_functions/at_options_page.php:161
+msgid "Flickr"
+msgstr ""
+
+#: at_functions/at_options_page.php:169
+msgid "Responsive"
+msgstr ""
+
+#: at_functions/at_options_page.php:175
+msgid "Enable Responsive Design"
+msgstr ""
+
+#: at_functions/at_options_page.php:182
+msgid "Tracking Code"
+msgstr ""
+
+#: at_functions/at_options_page.php:188
+msgid "Tracking Code (Google Analytic)"
+msgstr ""
+
+#: at_functions/at_options_page.php:212
+msgid "GoogleWebFont Directory"
+msgstr ""
+
+#: at_functions/at_options_page.php:218
+msgid "Update Font List"
+msgstr ""
+
+#: at_functions/at_options_page.php:226
+msgid "Headline Font Setting "
+msgstr ""
+
+#: at_functions/at_options_page.php:262
+msgid "General Font Setting"
+msgstr ""
+
+#: at_functions/at_options_page.php:304
+msgid "Top Navigation Font Setting"
+msgstr ""
+
+#: at_functions/at_options_page.php:350 at_functions/at_options_page.php:513
+msgid "Header"
+msgstr ""
+
+#: at_functions/at_options_page.php:356
+msgid "Header Logo"
+msgstr ""
+
+#: at_functions/at_options_page.php:365
+msgid "Logo Position Style"
+msgstr ""
+
+#: at_functions/at_options_page.php:374
+msgid "Logo Position From Top"
+msgstr ""
+
+#: at_functions/at_options_page.php:383
+msgid "Logo Position From Left"
+msgstr ""
+
+#: at_functions/at_options_page.php:392
+msgid "Top Area Height"
+msgstr ""
+
+#: at_functions/at_options_page.php:402
+msgid "Logo Align"
+msgstr ""
+
+#: at_functions/at_options_page.php:416
+msgid "Logo Space"
+msgstr ""
+
+#: at_functions/at_options_page.php:427
+msgid "Header Reservation"
+msgstr ""
+
+#: at_functions/at_options_page.php:433
+msgid "Text"
+msgstr ""
+
+#: at_functions/at_options_page.php:440
+msgid "Link URL"
+msgstr ""
+
+#: at_functions/at_options_page.php:448
+msgid "Home Slider"
+msgstr ""
+
+#: at_functions/at_options_page.php:454
+msgid "Enable Slider"
+msgstr ""
+
+#: at_functions/at_options_page.php:461
+msgid "Enable Autoplay"
+msgstr ""
+
+#: at_functions/at_options_page.php:469
+msgid "Slider Time Interval"
+msgstr ""
+
+#: at_functions/at_options_page.php:476
+msgid "Enable Widget Overlap with Slider"
+msgstr ""
+
+#: at_functions/at_options_page.php:490
+msgid "Choose Footer style"
+msgstr ""
+
+#: at_functions/at_options_page.php:501
+msgid "Copyright"
+msgstr ""
+
+#: at_functions/at_options_page.php:519
+msgid "Header Background Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:527
+msgid "Header Background Image"
+msgstr ""
+
+#: at_functions/at_options_page.php:574
+msgid "Header Social Icon Background Color "
+msgstr ""
+
+#: at_functions/at_options_page.php:582
+msgid "Header Social Icon Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:591
+msgid "Header Dotted Line Color "
+msgstr ""
+
+#: at_functions/at_options_page.php:602
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: at_functions/at_options_page.php:608
+msgid "Main Navigation Bar Background color"
+msgstr ""
+
+#: at_functions/at_options_page.php:616
+msgid "Main Navigation Text Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:624
+msgid "Main Navigation Text Hover Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:632
+msgid "Sub Navigation Background color"
+msgstr ""
+
+#: at_functions/at_options_page.php:640
+msgid "Sub Navigation Text Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:648
+msgid "Sub Navigation Text Hover Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:656
+msgid "Sub Navigation Background Opacity"
+msgstr ""
+
+#: at_functions/at_options_page.php:671
+msgid "Body Background Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:679
+msgid "Body Background Image"
+msgstr ""
+
+#: at_functions/at_options_page.php:725
+msgid "Page Title Ribbon Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:733
+msgid "Page Title Ribbon Icon Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:741
+msgid "Page Title Text Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:749
+msgid "Body Dotted Line Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:758
+msgid "Page Navigation Text Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:766
+msgid "Page Navigation Text Hover Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:774
+msgid "Page Navigation Background Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:782
+msgid "Page Navigation Background Hover Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:799
+msgid "Sidebar Ribbon Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:807
+msgid "Sidebar Ribbon Icon Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:815
+msgid "Sidebar Widget Title Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:826
+msgid "Content"
+msgstr ""
+
+#: at_functions/at_options_page.php:832
+msgid "Content Background Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:840
+msgid "Content Box Shadow Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:848
+msgid "Content Ribbon And Icon Background Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:856
+msgid "Cotent Ribbon Icon Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:864
+msgid "Content Dotted Line Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:872
+msgid "General Text Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:880
+msgid "General Link Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:888
+msgid "General Link Hover Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:896
+msgid "Read more Text Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:904
+msgid "Read more Text Hover Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:913
+msgid "Read more Background Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:922
+msgid "Read more Background Hover Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:930
+msgid "Read More Text"
+msgstr ""
+
+#: at_functions/at_options_page.php:940
+msgid "Footer Widgets Area"
+msgstr ""
+
+#: at_functions/at_options_page.php:947
+msgid "Footer Background Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:955
+msgid "Footer Ribbon Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:963
+msgid "Footer Ribbon Icon Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:971
+msgid "Footer Dotted Line Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:979
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:987
+msgid "Footer Normal Text Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:995
+msgid "Footer Link Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:1003
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:1014
+msgid "Footer Copyright"
+msgstr ""
+
+#: at_functions/at_options_page.php:1020
+msgid "Footer Copyright Background Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:1028
+msgid "Footer Copyright Normal Text Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:1036
+msgid "Footer Copyright Link Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:1044
+msgid "Footer Copyright Link Hover Color"
+msgstr ""
+
+#: at_functions/at_options_page.php:1056
+msgid "Style"
+msgstr ""
+
+#: at_functions/at_options_page.php:1062
+msgid "Food Menu Style"
+msgstr ""
+
+#: at_functions/at_options_page.php:1075
+msgid "Enable Recommended Menu"
+msgstr ""
+
+#: at_functions/at_options_page.php:1089
+msgid "Food Menu Categories Order"
+msgstr ""
+
+#: at_functions/at_options_page.php:1188
+msgid "Badge / Sign or Icon"
+msgstr ""
+
+#: at_functions/at_options_page.php:1194 at_functions/at_options_page.php:1261
+msgid "Choose"
+msgstr ""
+
+#: at_functions/at_options_page.php:1255
+msgid "Additional Pricing"
+msgstr ""
+
+#: at_functions/at_options_page.php:1307
+msgid " Food Menu Slider"
+msgstr ""
+
+#: at_functions/at_options_page.php:1313
+msgid "Enable Food Menu Slider Autoplay?"
+msgstr ""
+
+#: at_functions/at_options_page.php:1321
+msgid "Food Menu Slider Time Interval"
+msgstr ""
+
+#: at_functions/at_options_page.php:1328 at_functions/at_options_page.php:1416
+msgid "Social Sharing"
+msgstr ""
+
+#: at_functions/at_options_page.php:1334
+msgid "Enable Social Share on Food Menu"
+msgstr ""
+
+#: at_functions/at_options_page.php:1341 at_functions/at_options_page.php:1429
+msgid "Social Share Button"
+msgstr ""
+
+#: at_functions/at_options_page.php:1364 at_functions/at_options_page.php:1452
+msgid "Google+"
+msgstr ""
+
+#: at_functions/at_options_page.php:1393 at_functions/at_options_page.php:1399
+msgid "Blog Style"
+msgstr ""
+
+#: at_functions/at_options_page.php:1409
+msgid "Display Featured Image on Post"
+msgstr ""
+
+#: at_functions/at_options_page.php:1422
+msgid "Enable Social Share on Posts"
+msgstr ""
+
+#: at_functions/at_options_page.php:1476
+msgid "Settings"
+msgstr ""
+
+#: at_functions/at_options_page.php:1482
+msgid "Theme Options"
+msgstr ""
+
+#: at_functions/at_options_page.php:1511
+msgid "Color Scheme"
+msgstr ""
+
+#: at_functions/at_options_page.php:1530
+msgid "Widgets Settings"
+msgstr ""
+
+#: at_functions/at_options_page.php:1538
+msgid "Import XML Content"
+msgstr ""
+
+#: at_functions/at_options_page.php:1554
+msgid "Help Document"
+msgstr ""
+
+#: at_functions/at_shortcodes.php:371
+msgid "Your message has been sent."
+msgstr ""
+
+#: at_functions/at_shortcodes.php:379
+msgid "Email"
+msgstr ""
+
+#: at_functions/at_shortcodes.php:384
+msgid "Message"
+msgstr ""
+
+#: at_functions/at_shortcodes.php:391
+msgid "Submit"
+msgstr ""
+
+#: at_functions/at_shortcodes.php:527
+msgid "Your reservation has been sent."
+msgstr ""
+
+#: at_functions/at_shortcodes.php:536
+msgid "Phone Number"
+msgstr ""
+
+#: at_functions/at_shortcodes.php:540
+msgid "Email Address"
+msgstr ""
+
+#: at_functions/at_shortcodes.php:545
+msgid "Number of Persons"
+msgstr ""
+
+#: at_functions/at_shortcodes.php:553
+msgid "Time"
+msgstr ""
+
+#: at_functions/at_shortcodes.php:557
+msgid "Message / Special Request"
+msgstr ""
+
+#: at_functions/at_shortcodes.php:563
+msgid "Make a reservation"
+msgstr ""
+
+#: at_functions/widgets/at_boxes_widget.php:10
+msgid ""
+"3 Special Boxes - can pull content from food menu, post or custom text. "
+"(this widget use only on Home Area)"
+msgstr ""
+
+#: at_functions/widgets/at_boxes_widget.php:216
+#: at_functions/widgets/at_boxes_widget.php:238
+#: at_functions/widgets/at_boxes_widget.php:260
+#: at_functions/widgets/at_flickr_widget.php:58
+#: at_functions/widgets/at_fourboxes_widget.php:105
+#: at_functions/widgets/at_home_food_widget.php:177
+#: at_functions/widgets/at_home_recent_widget.php:94
+#: at_functions/widgets/at_opening_hours_widget.php:72
+#: at_functions/widgets/at_recent_portfolio_jquery_widget.php:216
+#: at_functions/widgets/at_recent_portfolio_widget.php:130
+#: at_functions/widgets/at_recent_widget.php:73
+#: at_functions/widgets/at_stunning_text_widget.php:68
+#: at_functions/widgets/at_testimonials_widget.php:110
+#: at_functions/widgets/at_twiiter_widget.php:165
+#: at_functions/widgets/at_weekly_menu_widget.php:125
+#: at_functions/widgets/à¹at_boxes_widget.php:214
+#: at_functions/widgets/à¹at_boxes_widget.php:236
+#: at_functions/widgets/à¹at_boxes_widget.php:258
+msgid "Title :"
+msgstr ""
+
+#: at_functions/widgets/at_boxes_widget.php:225
+#: at_functions/widgets/at_boxes_widget.php:247
+#: at_functions/widgets/at_recent_portfolio_widget.php:179
+#: at_functions/widgets/à¹at_boxes_widget.php:223
+#: at_functions/widgets/à¹at_boxes_widget.php:245
+msgid "Select Tag :"
+msgstr ""
+
+#: at_functions/widgets/at_boxes_widget.php:264
+#: at_functions/widgets/at_boxes_widget.php:270
+#: at_functions/widgets/at_stunning_text_widget.php:72
+#: at_functions/widgets/à¹at_boxes_widget.php:262
+#: at_functions/widgets/à¹at_boxes_widget.php:268
+msgid "Text :"
+msgstr ""
+
+#: at_functions/widgets/at_flickr_widget.php:9
+msgid "Display your recent Filckr photos"
+msgstr ""
+
+#: at_functions/widgets/at_flickr_widget.php:39
+#: at_functions/widgets/at_home_food_widget.php:150
+#: at_functions/widgets/at_home_gallery_widget.php:99
+#: at_functions/widgets/at_home_recent_widget.php:83
+#: at_functions/widgets/at_opening_hours_widget.php:53
+#: at_functions/widgets/at_recent_portfolio_jquery_widget.php:190
+#: at_functions/widgets/at_recent_portfolio_widget.php:103
+#: at_functions/widgets/at_recent_widget.php:61
+#: at_functions/widgets/at_stunning_text_widget.php:42
+#: at_functions/widgets/at_testimonials_widget.php:93
+#: at_functions/widgets/at_twiiter_widget.php:117
+#: at_functions/widgets/at_weekly_menu_widget.php:98
+msgid "New title"
+msgstr ""
+
+#: at_functions/widgets/at_flickr_widget.php:62
+msgid "Flickr ID :"
+msgstr ""
+
+#: at_functions/widgets/at_flickr_widget.php:66
+msgid "Number of photos :"
+msgstr ""
+
+#: at_functions/widgets/at_fourboxes_widget.php:10
+#: at_functions/widgets/à¹at_boxes_widget.php:10
+msgid "Boxes with Image, Title and Description"
+msgstr ""
+
+#: at_functions/widgets/at_fourboxes_widget.php:102
+msgid "Enable Box "
+msgstr ""
+
+#: at_functions/widgets/at_fourboxes_widget.php:109
+msgid "Icon URL :"
+msgstr ""
+
+#: at_functions/widgets/at_fourboxes_widget.php:114
+#: at_functions/widgets/at_home_recent_widget.php:98
+#: at_functions/widgets/at_recent_portfolio_widget.php:134
+#: at_functions/widgets/at_testimonials_widget.php:114
+msgid "Description :"
+msgstr ""
+
+#: at_functions/widgets/at_fourboxes_widget.php:122
+msgid "Link URL :"
+msgstr ""
+
+#: at_functions/widgets/at_home_food_widget.php:9
+msgid "Display your Food Menu. (this widget use only on Home Area)"
+msgstr ""
+
+#: at_functions/widgets/at_home_food_widget.php:182
+#: at_functions/widgets/at_weekly_menu_widget.php:130
+msgid "Select food menu by tags :"
+msgstr ""
+
+#: at_functions/widgets/at_home_food_widget.php:198
+#: at_functions/widgets/at_weekly_menu_widget.php:146
+msgid "Select food menu by categories :"
+msgstr ""
+
+#: at_functions/widgets/at_home_gallery_widget.php:9
+msgid "Show Photo Gallery (this widget use only on Home Area)"
+msgstr ""
+
+#: at_functions/widgets/at_home_recent_widget.php:9
+msgid "Your Recent posts with thumbnail on Homepage"
+msgstr ""
+
+#: at_functions/widgets/at_home_recent_widget.php:89
+#: at_functions/widgets/at_recent_portfolio_jquery_widget.php:196
+#: at_functions/widgets/at_recent_portfolio_widget.php:109
+msgid "New Description"
+msgstr ""
+
+#: at_functions/widgets/at_home_recent_widget.php:102
+#: at_functions/widgets/at_recent_portfolio_jquery_widget.php:251
+#: at_functions/widgets/at_recent_portfolio_widget.php:164
+msgid "Select Category :"
+msgstr ""
+
+#: at_functions/widgets/at_home_recent_widget.php:114
+msgid "Numbers of rows to show :"
+msgstr ""
+
+#: at_functions/widgets/at_home_recent_widget.php:125
+msgid "3 items per row"
+msgstr ""
+
+#: at_functions/widgets/at_opening_hours_widget.php:9
+#: at_functions/widgets/at_recent_widget.php:9
+#: at_functions/widgets/at_unwrap_text_widget.php:9
+#: at_functions/widgets/at_weekly_menu_widget.php:9
+msgid "Your Recent posts with thumbnail on Sidebar or Footer"
+msgstr ""
+
+#: at_functions/widgets/at_recent_portfolio_jquery_widget.php:9
+msgid "Display your recent portfolios jquery style"
+msgstr ""
+
+#: at_functions/widgets/at_recent_portfolio_jquery_widget.php:224
+#: at_functions/widgets/at_recent_portfolio_widget.php:138
+msgid "Porfolio Title Style :"
+msgstr ""
+
+#: at_functions/widgets/at_recent_portfolio_jquery_widget.php:232
+#: at_functions/widgets/at_recent_portfolio_widget.php:146
+msgid "Choose your Portfolio columns :"
+msgstr ""
+
+#: at_functions/widgets/at_recent_portfolio_jquery_widget.php:241
+#: at_functions/widgets/at_recent_portfolio_widget.php:155
+msgid "Numbers of Portfolios to Show :"
+msgstr ""
+
+#: at_functions/widgets/at_recent_portfolio_widget.php:9
+msgid "Display your recent portfolios"
+msgstr ""
+
+#: at_functions/widgets/at_recent_widget.php:77
+msgid "Number of posts to show :"
+msgstr ""
+
+#: at_functions/widgets/at_stunning_text_widget.php:9
+msgid "Your text"
+msgstr ""
+
+#: at_functions/widgets/at_stunning_text_widget.php:76
+msgid "Button Text :"
+msgstr ""
+
+#: at_functions/widgets/at_stunning_text_widget.php:80
+msgid "Button Link :"
+msgstr ""
+
+#: at_functions/widgets/at_testimonials_widget.php:10
+msgid "Testimonails list for your site"
+msgstr ""
+
+#: at_functions/widgets/at_testimonials_widget.php:100
+msgid "New description"
+msgstr ""
+
+#: at_functions/widgets/at_testimonials_widget.php:118
+msgid "Time interval :"
+msgstr ""
+
+#: at_functions/widgets/at_testimonials_widget.php:120
+msgid "in milliseconds (0 : disable auto slide)"
+msgstr ""
+
+#: at_functions/widgets/at_testimonials_widget.php:124
+msgid "Random order"
+msgstr ""
+
+#: at_functions/widgets/at_twiiter_widget.php:9
+msgid "Your Recent Twitter feed"
+msgstr ""
+
+#: at_functions/widgets/at_twiiter_widget.php:169
+msgid "Twitter username :"
+msgstr ""
+
+#: at_functions/widgets/at_twiiter_widget.php:173
+msgid "Number of feeds to show :"
+msgstr ""
+
+#: at_functions/widgets/at_twiiter_widget.php:180
+msgid "Consumer key :"
+msgstr ""
+
+#: at_functions/widgets/at_twiiter_widget.php:184
+msgid "Consumer secret :"
+msgstr ""
+
+#: at_functions/widgets/at_twiiter_widget.php:188
+msgid "Access token :"
+msgstr ""
+
+#: at_functions/widgets/at_twiiter_widget.php:192
+msgid "Access token secret :"
+msgstr ""
